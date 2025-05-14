@@ -12,7 +12,7 @@ function Freebook() {
   useEffect(() => {
     const getBook = async () => { //ekahne getselfdevbook k call korbo
       try {
-        const res = await axios.get("http://localhost:4001/book"); //ekhane / add hobe
+        const res = await axios.get("https://main-booky.onrender.com/book"); //ekhane / add hobe
 
         const data = res.data.filter((data) => data.category === "Self-growth");
         console.log(data);
