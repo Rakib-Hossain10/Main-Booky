@@ -1,0 +1,49 @@
+[
+
+
+    {
+        "id": 1,
+        "name": "The Art of Computer Programming, Volume 1: Fundamental Algorithms",
+        "title": "For 3rd semester CST students",
+        "category": "Algorithms",
+        "image": "../3rd sem/principle.jpg ",
+        "semester": "3rd",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming"
+    },
+    {
+        "id": 2,
+        "name": "Modern Operating Systems",
+        "title": "For 3rd semester CST students",
+        "category": "Operating Systems",
+        "image": "../3rd sem/Op.jpg ",
+        "semester": "3rd",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Modern_Operating_Systems"
+    },
+    {
+        "id": 3,
+        "name": "Principles of Compiler Design",
+        "title": "For 3rd semester CST students",
+        "category": "Compilers",
+        "image": "../3rd sem/compiler.jpg ",
+        "semester": "3rd",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Principles_of_Compiler_Design"
+    },
+    {
+        "id": 4,
+        "name": "Introduction to Computer Graphics and the Vulkan API",
+        "title": "For 3rd semester CST students",
+        "category": "Computer Graphics",
+        "image": "../3rd sem/graphics.jpg ",
+        "semester": "3rd",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Introduction_to_Computer_Graphics_and_the_Vulkan_API"
+    },
+    {
+        "id": 5,
+        "name": "Introduction to Machine Learning with Python",
+        "title": "For 3rd semester CST students",
+        "category": "Machine Learning",
+        "image": "../3rd sem/py.jpg ",
+        "semester": "3rd",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Introduction_to_Machine_Learning_with_Python"
+    }
+]

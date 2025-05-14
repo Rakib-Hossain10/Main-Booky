@@ -1,0 +1,57 @@
+[
+
+    {
+        "id": 1,
+        "name": "Artificial Intelligence: A Modern Approach",
+        "title": "For 6th semester CST students",
+        "category": "Artificial Intelligence",
+        "image": "../6th sem/ai.jpg", 
+        "semester": "6th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach"
+    },
+    {
+        "id": 2,
+        "name": "Advanced Algorithms",
+        "title": "For 6th semester CST students",
+        "category": "Algorithms",
+        "image": "../6th sem/ad al.jpg",
+        "semester": "6th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Advanced_Algorithms"
+    },
+    {
+        "id": 3,
+        "name": "Computer Graphics: Principles and Practice",
+        "title": "For 6th semester CST students",
+        "category": "Computer Graphics",
+        "image": "../6th sem/cgp.jpg",
+        "semester": "6th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Computer_Graphics:_Principles_and_Practice"
+    },
+    {
+        "id": 4,
+        "name": "Cryptography and Network Security",
+        "title": "For 6th semester CST students",
+        "category": "Cryptography",
+        "image": "../6th sem/net.jpg",
+        "semester": "6th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Cryptography_and_Network_Security"
+    },
+    {
+        "id": 5,
+        "name": "Cloud Computing: Concepts, Technology & Architecture",
+        "title": "For 6th semester CST students",
+        "category": "Cloud Computing",
+        "image": "../6th sem/cloud.jpg",
+        "semester": "6th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Cloud_Computing:_Concepts,_Technology_&_Architecture"
+    },
+    {
+        "id": 6,
+        "name": "Data Science for Business",
+        "title": "For 6th semester CST students",
+        "category": "Data Science",
+        "image": "../6th sem/dsb.jpg",
+        "semester": "6th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Data_Science_for_Business"
+    }
+]

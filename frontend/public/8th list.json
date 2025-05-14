@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 2,
+        "name": "Advanced Computer Architecture",
+        "title": "For 8th semester CST students",
+        "category": "Computer Architecture",
+        "image": "../8th sem/aca.jpg",
+        "semester": "8th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Advanced_Computer_Architecture"
+    },
+    {
+        "id": 3,
+        "name": "Blockchain Basics: A Non-Technical Introduction in 25 Steps",
+        "title": "For 8th semester CST students",
+        "category": "Blockchain",
+        "image": "../8th sem/block.jpg",
+        "semester": "8th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Blockchain"
+    },
+
+    {
+        "id": 7,
+        "name": "Programming Distributed Computing Systems",
+        "title": "For 8th semester CST students",
+        "category": "Distributed Systems",
+        "image": "../8th sem/pd.jpg ",
+        "semester": "8th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Distributed_computing"
+    }
+]

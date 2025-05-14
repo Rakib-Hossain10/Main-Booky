@@ -1,0 +1,57 @@
+[
+
+    {
+        "id": 1,
+        "name": "Computer Architecture: A Quantitative Approach",
+        "title": "For 4th semester CST students",
+        "category": "Computer Architecture",
+        "image": "../4th sem/arc.jpg", 
+        "semester": "4th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Computer_Architecture:_A_Quantitative_Approach"
+    },
+    {
+        "id": 2,
+        "name": "Operating Systems: Internals and Design Principles",
+        "title": "For 4th semester CST students",
+        "category": "Operating Systems",
+        "image": "../4th sem/op.jpg",
+        "semester": "4th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Operating_Systems:_Internals_and_Design_Principles"
+    },
+    {
+        "id": 3,
+        "name": "Artificial Intelligence: Structures and Strategies for Solving Complex Problems",
+        "title": "For 4th semester CST students",
+        "category": "Artificial Intelligence",
+        "image": "../4th sem/ai.jpg",
+        "semester": "4th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Artificial_Intelligence:_Structures_and_Strategies_for_Solving_Complex_Problems"
+    },
+    {
+        "id": 4,
+        "name": "Design and Analysis of Algorithms",
+        "title": "For 4th semester CST students",
+        "category": "Algorithms",
+        "image": "../4th sem/ida.jpg",
+        "semester": "4th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Design_and_Analysis_of_Algorithms"
+    },
+    {
+        "id": 5,
+        "name": "Software Engineering: Theory and Practice",
+        "title": "For 4th semester CST students",
+        "category": "Software Engineering",
+        "image": "../4th sem/se.jpg",
+        "semester": "4th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Software_Engineering:_Theory_and_Practice"
+    },
+    {
+        "id": 6,
+        "name": "Introduction to Cryptography with Coding Theory",
+        "title": "For 4th semester CST students",
+        "category": "Cryptography",
+        "image": "../4th sem/ict.jpg", 
+        "semester": "4th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Introduction_to_Cryptography_with_Coding_Theory"
+    }
+]

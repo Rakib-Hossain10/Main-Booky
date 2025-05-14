@@ -1,0 +1,187 @@
+[
+    {
+        "id": 1,
+        "name": "Rich Dad Poor Dad",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/Rich_Dad_Poor_Dad.jpg",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad"
+    },
+    {
+        "id": 2,
+        "name": "The 7 Habits of Highly Effective People",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/The_7_Habits_of_Highly_Effective_People.jpg",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People"
+    },
+    {
+        "id": 3,
+        "name": "Atomic Habits",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/Atomic Habits.jpg",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Atomic_Habits"
+    },
+    {
+        "id": 4,
+        "name": "Think and Grow Rich",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self/Think_and_grow_rich_original_cover.jpg ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Think_and_Grow_Rich"
+    },
+    {
+        "id": 5,
+        "name": "How to Win Friends and Influence People",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/How_to_win_friends_and_influence_people.jpg ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People"
+    },
+    {
+        "id": 6,
+        "name": "The Power of Now",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/The Power of Now.jpg ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/The_Power_of_Now"
+    },
+    {
+        "id": 7,
+        "name": "Mindset: The New Psychology of Success",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/Mindset ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Mindset:_The_New_Psychology_of_Success"
+    },
+
+    {
+        "id": 9,
+        "name": "The 48 Laws of Power",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/The 48 Laws Of Power.jpg ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/The_48_Laws_of_Power"
+    },
+    {
+        "id": 10,
+        "name": "You Are a Badass",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/youareabadass_blowup.jpg ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/You_Are_a_Badass"
+    },
+    {
+        "id": 11,
+        "name": "The Four Agreements",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/The Four Agreements.jpg  ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/The_Four_Agreements"
+    },
+    {
+        "id": 12,
+        "name": "Dare to Lead",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/daretolead.jpg ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Dare_to_Lead"
+    },
+    {
+        "id": 13,
+        "name": "Grit: The Power of Passion and Perseverance",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/Grit.jpg",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Grit:_The_Power_of_Passion_and_Perseverance"
+    },
+    {
+        "id": 14,
+        "name": "The 5 AM Club",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/The 5 am club.jpg  ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/The_5_AM_Club"
+    },
+    {
+        "id": 15,
+        "name": "The Miracle Morning",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/the miracle morning.jpg  ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/The_Miracle_Morning"
+    },
+    {
+        "id": 16,
+        "name": "The Power of Habit",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/The_Power_of_Habit.jpg  ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/The_Power_of_Habit"
+    },
+    {
+        "id": 17,
+        "name": "Start with Why",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/Start_With_Why.jpg  ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Start_with_Why"
+    },
+    {
+        "id": 18,
+        "name": "The Art of Happiness",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/The_Art_of_Happiness.jpg  ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/The_Art_of_Happiness"
+    },
+    {
+        "id": 19,
+        "name": "The Alchemist",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/the alchemist.jpg  ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/The_Alchemist"
+    },
+    {
+        "id": 20,
+        "name": "The War of Art",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/the art of war.jpg",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/The_War_of_Art"
+    },
+    {
+        "id": 21,
+        "name": "Ego Is the Enemy",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/Ego_is_the_Enemy.jpg  ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Ego_Is_the_Enemy"
+    },
+    {
+        "id": 22,
+        "name": "Deep Work",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/Deep Work.jpg  ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Deep_Work"
+    },
+    {
+        "id": 23,
+        "name": "Awaken the Giant Within",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/Awaken the Giant Within.jpg  ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Awaken_the_Giant_Within"
+    },
+    {
+        "id": 24,
+        "name": "The Compound Effect",
+        "title": "For all Category students",
+        "category": "Self Development",
+        "image": "../self dev/The Compound Effect.jpg  ",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/The_Compound_Effect"
+    }
+]

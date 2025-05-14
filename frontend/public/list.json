@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Introduction to Algorithms",
+        "title": "For 1st semester CST students",
+        "category": "Computer Science",
+        "image": "../1st sem/Algo.jpg ",
+        "semester": "1st",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Introduction_to_Algorithms"
+    },
+    {
+        "id": 2,
+        "name": "The C Programming Language",
+        "title": "For 1st semester CST students",
+        "category": "C Programming",
+        "image": "../1st sem/c pr.jpg ",
+        "semester": "1st",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/The_C_Programming_Language"
+    },
+    {
+        "id": 3,
+        "name": "Discrete Mathematics and Its Applications",
+        "title": "For 1st semester CST students",
+        "category": "Mathematics",
+        "image": "../1st sem/descrite.jpg ",
+        "semester": "1st",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Discrete_Mathematics_and_Its_Applications"
+    },
+    {
+        "id": 4,
+        "name": "Fundamentals of Computer Science",
+        "title": "For 1st semester CST students",
+        "category": "Computer Science",
+        "image": "../1st sem/funda.jpg ",
+        "semester": "1st",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Fundamentals_of_Computer_Science"
+    },
+    {
+        "id": 5,
+        "name": "Digital Logic and Computer Design",
+        "title": "For 1st semester CST students",
+        "category": "Computer Architecture",
+        "image": "../1st/sem/Digital.jpg ",
+        "semester": "1st",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Digital_Logic_and_Computer_Design"
+    },
+    {
+        "id": 6,
+        "name": "Operating System Concepts",
+        "title": "For 1st semester CST students",
+        "category": "Operating Systems",
+        "image": "../1st sem/Operating.jpg ",
+        "semester": "1st",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Operating_System_Concepts"
+    }
+]

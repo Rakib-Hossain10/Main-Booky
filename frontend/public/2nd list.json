@@ -1,0 +1,57 @@
+[
+    
+    {
+        "id": 1,
+        "name": "Database System Concepts",
+        "title": "For 2nd semester CST students",
+        "category": "Database Management",
+        "image": "../2nd sem/daatabase.jpg ",
+        "semester": "2nd",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Database_System_Concepts"
+    },
+    {
+        "id": 2,
+        "name": "Computer Organization and Design",
+        "title": "For 2nd semester CST students",
+        "category": "Computer Architecture",
+        "image": "../2nd sem/computer.jpg ",
+        "semester": "2nd",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Computer_Organization_and_Design"
+    },
+    {
+        "id": 3,
+        "name": "Software Engineering: A Practitioner's Approach",
+        "title": "For 2nd semester CST students",
+        "category": "Software Engineering",
+        "image": "../2nd sem/software.jpg ",
+        "semester": "2nd",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Software_Engineering:_A_Practitioner%27s_Approach"
+    },
+    {
+        "id": 4,
+        "name": "Data Structures and Algorithms in Java",
+        "title": "For 2nd semester CST students",
+        "category": "Data Structures",
+        "image": "../2nd sem/dataStruc.jpg ",
+        "semester": "2nd",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Data_Structures_and_Algorithms_in_Java"
+    },
+    {
+        "id": 5,
+        "name": "Computer Networks: A Systems Approach",
+        "title": "For 2nd semester CST students",
+        "category": "Networking",
+        "image": "../2nd sem/com nerwork.jpg ",
+        "semester": "2nd",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Computer_Networks:_A_Systems_Approach"
+    },
+    {
+        "id": 6,
+        "name": "Introduction to the Theory of Computation",
+        "title": "For 2nd semester CST students",
+        "category": "Theoretical Computer Science",
+        "image": "../2nd sem/computation.jpg ",
+        "semester": "2nd",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Introduction_to_the_Theory_of_Computation"
+    }
+]

@@ -1,0 +1,40 @@
+[
+
+
+    {
+        "id": 1,
+        "name": "Big Data: Principles and Paradigms",
+        "title": "For 7th semester CST students",
+        "category": "Big Data",
+        "image": "../7th sem/bd.jpg ",
+        "semester": "7th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Big_Data:_Principles_and_Paradigms"
+    },
+    {
+        "id": 2,
+        "name": "Mobile Computing: Principles and Practices",
+        "title": "For 7th semester CST students",
+        "category": "Mobile Computing",
+        "image": "../7th sem/mc.jpg ",
+        "semester": "7th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Mobile_Computing:_Principles_and_Practices"
+    },
+    {
+        "id": 3,
+        "name": "Natural Language Processing with Python",
+        "title": "For 7th semester CST students",
+        "category": "Natural Language Processing",
+        "image": "../7th sem/py.jpg  ",
+        "semester": "7th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Natural_Language_Processing_with_Python"
+    },
+    {
+        "id": 4,
+        "name": "Cybersecurity and Cyberwar: What Everyone Needs to Know",
+        "title": "For 7th semester CST students",
+        "category": "Cybersecurity",
+        "image": "../7th sem/cac.jpg  ",
+        "semester": "7th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Cybersecurity_and_Cyberwar:_What_Everyone_Needs_to_Know"
+    }
+]

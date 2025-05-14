@@ -1,0 +1,57 @@
+[
+
+    {
+        "id": 1,
+        "name": "Machine Learning: A Probabilistic Perspective",
+        "title": "For 5th semester CST students",
+        "category": "Machine Learning",
+        "image": "../5th sem/ml.jpg", 
+        "semester": "5th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Machine_Learning:_A_Probabilistic_Perspective"
+    },
+    {
+        "id": 2,
+        "name": "Distributed Systems: Concepts and Design",
+        "title": "For 5th semester CST students",
+        "category": "Distributed Systems",
+        "image": "../5th sem/ds.jpg",
+        "semester": "5th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Distributed_Systems:_Concepts_and_Design"
+    },
+    {
+        "id": 3,
+        "name": "Digital Signal Processing",
+        "title": "For 5th semester CST students",
+        "category": "Signal Processing",
+        "image": "../5th sem/dsp.jpg",
+        "semester": "5th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Digital_Signal_Processing"
+    },
+    {
+        "id": 4,
+        "name": "Introduction to Database Systems",
+        "title": "For 5th semester CST students",
+        "category": "Database Systems",
+        "image": "../5th sem/data s.jpg",
+        "semester": "5th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Introduction_to_Database_Systems"
+    },
+    {
+        "id": 5,
+        "name": "Introduction to the Theory of Computation",
+        "title": "For 5th semester CST students",
+        "category": "Theoretical Computer Science",
+        "image": "../5th sem/compu.jpg",
+        "semester": "5th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Introduction_to_the_Theory_of_Computation"
+    },
+    {
+        "id": 6,
+        "name": "Computer Security: Art and Science",
+        "title": "For 5th semester CST students",
+        "category": "Computer Security",
+        "image": "../5th sem/art.jpg",
+        "semester": "5th",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Computer_Security:_Art_and_Science"
+    }
+]
